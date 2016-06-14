@@ -6,3 +6,5 @@ My personal color scheme for IntelliJ IDEA, it's a dark theme that uses distinct
 
 ### JavaScript
 ![JavaScript screenshot](https://raw.githubusercontent.com/aurbano/IntelliJ-IDEA-colors/master/screenshots/javascript.png)
+
+I should probably make Java and JavaScript a bit more similar though, although it's also a good thing being able to tell them appart at a glance.
