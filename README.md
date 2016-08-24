@@ -8,7 +8,7 @@ My personal color scheme for IntelliJ IDEA, it's a dark theme that uses distinct
 
 Some versions of IntelliJ might not recognize the jar file, or you probably don't trust jar files. In that case do the following:
 
-1. Download the plain text `aurbano.icls` file
+1. Download the plain text [`aurbano.icls`](https://github.com/aurbano/IntelliJ-IDEA-colors/blob/master/aurbano.icls) file
 2. Put it in `%IntelliJSettings%/config/colors`
 3. Restart the IDE and you should see the new option in `Settings > Editor > Colors & Fonts`.
 
