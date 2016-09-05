@@ -18,6 +18,3 @@ Some versions of IntelliJ might not recognize the jar file, or you probably don'
 
 ### JavaScript
 ![JavaScript screenshot](https://raw.githubusercontent.com/aurbano/IntelliJ-IDEA-colors/master/screenshots/javascript.png)
-
-### Markdown
-![Markdown screenshot](https://raw.githubusercontent.com/aurbano/IntelliJ-IDEA-colors/master/screenshots/markdown.png)
