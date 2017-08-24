@@ -16,3 +16,5 @@ It's *very* close to being perfect :smile: (for me)
 1. Go to **Preferences > Editor > Color Scheme**, click on the gear and then **Import Scheme...**
     - _Alternatively_, you can manually put it in `%IntelliJSettings%/config/colors`
 1. Restart the IDE and you should see the new option in `Settings > Editor > Colors & Fonts`.
+
+I use the **Menlo** font, which you can get here: https://github.com/hbin/top-programming-fonts
