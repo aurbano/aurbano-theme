@@ -1,16 +1,7 @@
 # My IntelliJ IDEA Theme
 My personal color scheme for IntelliJ IDEA, it's a dark theme that uses distinct colors for each language feature, but similar ones for related parts (shades of blue for methods, oranges for language defaults... )
 
-## Install
-1. Download [color settings jar](https://github.com/aurbano/IntelliJ-IDEA-colors/raw/master/aurbano.jar) file.
-2. Open IntelliJ, and go to File > Import Settings...
-3. Select the downloaded Jar file
-
-Some versions of IntelliJ might not recognize the jar file, or you probably don't trust jar files. In that case do the following:
-
-1. Download the plain text [`aurbano.icls`](https://github.com/aurbano/IntelliJ-IDEA-colors/blob/master/aurbano.icls) file
-2. Put it in `%IntelliJSettings%/config/colors`
-3. Restart the IDE and you should see the new option in `Settings > Editor > Colors & Fonts`.
+It's *very* close to being perfect :smile: (for me)
 
 ## Screenshots
 ### Java
@@ -18,3 +9,10 @@ Some versions of IntelliJ might not recognize the jar file, or you probably don'
 
 ### JavaScript
 ![JavaScript screenshot](https://raw.githubusercontent.com/aurbano/IntelliJ-IDEA-colors/master/screenshots/javascript.png)
+
+## Install
+
+1. Download the plain text [`aurbano.icls`](https://github.com/aurbano/IntelliJ-IDEA-colors/blob/master/aurbano.icls) file
+1. Go to **Preferences > Editor > Color Scheme**, click on the gear and then **Import Scheme...**
+    - _Alternatively_, you can manually put it in `%IntelliJSettings%/config/colors`
+1. Restart the IDE and you should see the new option in `Settings > Editor > Colors & Fonts`.
