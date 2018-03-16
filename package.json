@@ -1,35 +1,17 @@
 {
-  "name": "aurbano-theme",
-  "displayName": "aurbano",
-  "description": "My theme",
+  "name": "aurbano.theme",
   "version": "1.0.0",
   "publisher": "aurbano",
   "author": {
-    "name": "Alejandro U. Alvarez",
+    "name": "Alejandro U. Alvarez"
   },
-  "homepage": "https://github.com/aurbano/vs-code-theme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aurbano/vscode-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/aurbano/vscode-theme"
-  },
-  "license": "(MIT AND CC-BY-SA-4.0)",
+  "homepage": "https://github.com/aurbano/aurbano-theme",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.12.0"
+    "vscode": "^1.0.0"
   },
-  "galleryBanner": {
-    "color": "#2E3440",
-    "theme": "dark"
-  },
-  "markdown": "github",
   "categories": [
     "Themes"
-  ],
-  "keywords": [
-      "personal",
-      "aurbano"
   ],
   "contributes": {
     "themes": [
@@ -39,7 +21,5 @@
         "path": "./vs-code/aurbano.json"
       }
     ]
-  },
-  "devDependencies": {
   }
 }
