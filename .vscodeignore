@@ -1,0 +1,11 @@
+.github/**
+.vscode/**
+node_modules
+.editorconfig
+.eslintrc.js
+.gitignore
+.npmrc
+.travis.yml
+circle.yml
+gulpfile.js
+yarn.lock
