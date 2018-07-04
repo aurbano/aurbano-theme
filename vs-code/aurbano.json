@@ -198,6 +198,24 @@
   },
   "tokenColors": [
     {
+      "scope": "comment.line",
+      "settings": {
+        "foreground": "#7D8C93"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#678CB1"
+      }
+    },
+    {
+      "scope": "meta.function",
+      "settings": {
+        "foreground": "#678CB1"
+      }
+    },
+    {
       "scope": "emphasis",
       "settings": {
         "fontStyle": "italic"
@@ -381,6 +399,24 @@
       ],
       "settings": {
         "foreground": "#4C566A"
+      }
+    },
+    {
+      "name": "Block Comment",
+      "scope": [
+        "comment.block"
+      ],
+      "settings": {
+        "foreground": "#667866"
+      }
+    },
+    {
+      "name": "Documentation Block Comment",
+      "scope": [
+        "comment.block.documentation"
+      ],
+      "settings": {
+        "foreground": "#63BD59"
       }
     },
     {
@@ -782,10 +818,17 @@
       }
     },
     {
-      "name": "[JavaScript](JSDoc) Storage Type Class",
-      "scope": "source.js storage.type.class.jsdoc",
+      "name": "[JavaScript] Storage Type Class",
+      "scope": "storage.type.class.jsdoc",
       "settings": {
-        "foreground": "#8FBCBB"
+        "foreground": "#E0E2E4"
+      }
+    },
+    {
+      "name": "[JavaScript] Storage Type Variable",
+      "scope": "variable.other.jsdoc",
+      "settings": {
+        "foreground": "#A26C4A"
       }
     },
     {
