@@ -1,4 +1,9 @@
 # My Personal IDE  Theme
+
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/aurbano.aurbano-theme.svg )](https://marketplace.visualstudio.com/items/aurbano.aurbano-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/aurbano.aurbano-theme.svg )](https://marketplace.visualstudio.com/items/aurbano.aurbano-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/aurbano.aurbano-theme.svg )](https://marketplace.visualstudio.com/items/aurbano.aurbano-theme)
+
+
+
 My personal color scheme for the IDEs I use, it's a dark theme that uses distinct colors for each language 
 feature, but similar ones for related parts (shades of blue for methods, oranges for language defaults... )
 
