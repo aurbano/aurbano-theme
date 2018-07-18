@@ -1159,9 +1159,21 @@
 			}
 		},
 		{
-			"scope": "comment",
+			"scope": "comment.block.documentation",
+			"settings": {
+				"foreground": "#63BD59"
+			}
+		},
+		{
+			"scope": "comment.line.double-slash",
 			"settings": {
 				"foreground": "#7D8C93"
+			}
+		},
+		{
+			"scope": "comment.block",
+			"settings": {
+				"foreground": "#667866"
 			}
 		},
 		{
